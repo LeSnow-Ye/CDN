@@ -5549,262 +5549,78 @@ var randomNum = Math.floor(Math.random() * myPix.length);
     },
     function (e, t) {
       e.exports = {
-        custom1:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/1.jpg",
-        custom2:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/10.jpg",
-        custom3:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/11.jpg",
-        custom4:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/12.jpg",
-        custom5:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/13.jpg",
-        custom6:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/14.jpg",
-        custom7:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/15.jpg",
-        custom8:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/16.jpg",
-        custom9:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/17.jpg",
-        custom10:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/18.jpg",
-        custom11:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/19.jpg",
-        custom12:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/2.jpg",
-        custom13:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/20.jpg",
-        custom14:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/21.jpg",
-        custom17:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/23.jpg",
-        custom18:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/24.jpg",
-        custom19:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/25.jpg",
-        custom20:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/26.jpg",
-        custom21:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/27.jpg",
-        custom22:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/28.jpg",
-        custom23:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/29.jpg",
-        custom24:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/3.jpg",
-        custom25:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/30.jpg",
-        custom26:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/31.jpg",
-        custom27:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/32.jpg",
-        custom28:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/4.jpg",
-        custom29:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/5.jpg",
-        custom30:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/6.jpg",
-        custom31:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/7.jpg",
-        custom32:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/8.jpg",
-        custom33:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/9.jpg",
-        custom35:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2020].png",
-        custom36:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_卖萌].png",
-        custom37:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_吃惊].png",
-        custom38:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_吐魂].png",
-        custom39:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_喝水].png",
-        custom40:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_困惑].png",
-        custom41:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_大哭].png",
-        custom42:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_大笑].png",
-        custom43:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_委屈].png",
-        custom44:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_怒].png",
-        custom45:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_无言].png",
-        custom46:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_汗].png",
-        custom47:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_疑问].png",
-        custom48:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_第一].png",
-        custom49:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_耶].png",
-        custom50:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[2233娘_郁闷].png",
-        custom51:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[doge].png",
-        custom52:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_doge].png",
-        custom53:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_亲亲].png",
-        custom54:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_偷笑].png",
-        custom55:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_再见].png",
-        custom56:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_冷漠].png",
-        custom57:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_发怒].png",
-        custom58:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_发财].png",
-        custom59:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_可爱].png",
-        custom60:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_吐血].png",
-        custom61:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_呆].png",
-        custom62:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_呕吐].png",
-        custom63:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_困].png",
-        custom64:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_坏笑].png",
-        custom65:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_大佬].png",
-        custom66:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_大哭].png",
-        custom67:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_委屈].png",
-        custom68:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_害羞].png",
-        custom69:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_尴尬].png",
-        custom70:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_微笑].png",
-        custom71:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_思考].png",
-        custom72:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_惊吓].png",
-        custom73:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_打脸].png",
-        custom74:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_抓狂].png",
-        custom75:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_抠鼻].png",
-        custom76:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_斜眼笑].png",
-        custom77:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_无奈].png",
-        custom78:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_晕].png",
-        custom79:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_流汗].png",
-        custom80:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_流泪].png",
-        custom81:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_流鼻血].png",
-        custom82:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_点赞].png",
-        custom83:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_生气].png",
-        custom84:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_生病].png",
-        custom85:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_疑问].png",
-        custom86:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_白眼].png",
-        custom87:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_皱眉].png",
-        custom88:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_目瞪口呆].png",
-        custom89:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_睡着].png",
-        custom90:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_笑哭].png",
-        custom91:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_腼腆].png",
-        custom92:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_色].png",
-        custom93:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_调侃].png",
-        custom94:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_调皮].png",
-        custom95:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_鄙视].png",
-        custom96:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_闭嘴].png",
-        custom97:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_难过].png",
-        custom98:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_馋].png",
-        custom99:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_鬼脸].png",
-        custom100:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_黑人问号].png",
-        custom101:
-          "https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo-v1@master/img/BQB/[tv_鼓掌].png",
-        alu3: "https://bqb1.bili33.top/alu/不出所料.png",
-        alu4: "https://bqb1.bili33.top/alu/不说话.png",
-        alu5: "https://bqb1.bili33.top/alu/不高兴.png",
-        alu6: "https://bqb1.bili33.top/alu/中刀.png",
-        alu7: "https://bqb1.bili33.top/alu/中指.png",
-        alu8: "https://bqb1.bili33.top/alu/中枪.png",
-        alu9: "https://bqb1.bili33.top/alu/亲亲.png",
-        alu10: "https://bqb1.bili33.top/alu/便便.png",
-        alu11: "https://bqb1.bili33.top/alu/内伤.png",
-        alu12: "https://bqb1.bili33.top/alu/击掌.png",
-        alu13: "https://bqb1.bili33.top/alu/口水.png",
-        alu14: "https://bqb1.bili33.top/alu/吐.png",
-        alu15: "https://bqb1.bili33.top/alu/吐舌.png",
-        alu16: "https://bqb1.bili33.top/alu/吐血倒地.png",
-        alu17: "https://bqb1.bili33.top/alu/呲牙.png",
-        alu18: "https://bqb1.bili33.top/alu/咽气.png",
-        alu19: "https://bqb1.bili33.top/alu/哭泣.png",
-        alu20: "https://bqb1.bili33.top/alu/喜极而泣.png",
-        alu21: "https://bqb1.bili33.top/alu/喷水.png",
-        alu22: "https://bqb1.bili33.top/alu/喷血.png",
-        alu23: "https://bqb1.bili33.top/alu/坐等.png",
-        alu24: "https://bqb1.bili33.top/alu/害羞.png",
-        alu25: "https://bqb1.bili33.top/alu/小眼睛.png",
-        alu26: "https://bqb1.bili33.top/alu/尴尬.png",
-        alu27: "https://bqb1.bili33.top/alu/得意.png",
-        alu28: "https://bqb1.bili33.top/alu/惊喜.png",
-        alu29: "https://bqb1.bili33.top/alu/想一想.png",
-        alu30: "https://bqb1.bili33.top/alu/愤怒.png",
-        alu31: "https://bqb1.bili33.top/alu/扇耳光.png",
-        alu32: "https://bqb1.bili33.top/alu/投降.png",
-        alu33: "https://bqb1.bili33.top/alu/抠鼻.png",
-        alu34: "https://bqb1.bili33.top/alu/抽烟.png",
-        alu35: "https://bqb1.bili33.top/alu/无奈.png",
-        alu36: "https://bqb1.bili33.top/alu/无所谓.png",
-        alu37: "https://bqb1.bili33.top/alu/无语.png",
-        alu38: "https://bqb1.bili33.top/alu/暗地观察.png",
-        alu39: "https://bqb1.bili33.top/alu/期待.png",
-        alu40: "https://bqb1.bili33.top/alu/欢呼.png",
-        alu41: "https://bqb1.bili33.top/alu/汗.png",
-        alu42: "https://bqb1.bili33.top/alu/深思.png",
-        alu43: "https://bqb1.bili33.top/alu/狂汗.png",
-        alu44: "https://bqb1.bili33.top/alu/献花.png",
-        alu45: "https://bqb1.bili33.top/alu/献黄瓜.png",
-        alu46: "https://bqb1.bili33.top/alu/皱眉.png",
-        alu47: "https://bqb1.bili33.top/alu/看不见.png",
-        alu48: "https://bqb1.bili33.top/alu/看热闹.png",
-        alu49: "https://bqb1.bili33.top/alu/瞅你.png",
-        alu50: "https://bqb1.bili33.top/alu/肿包.png",
-        alu51: "https://bqb1.bili33.top/alu/脸红.png",
-        alu52: "https://bqb1.bili33.top/alu/蜡烛.png",
-        alu53: "https://bqb1.bili33.top/alu/装大款.png",
-        alu54: "https://bqb1.bili33.top/alu/观察.png",
-        alu55: "https://bqb1.bili33.top/alu/赞一个.png",
-        alu56: "https://bqb1.bili33.top/alu/邪恶.png",
-        alu57: "https://bqb1.bili33.top/alu/锁眉.png",
-        alu58: "https://bqb1.bili33.top/alu/长草.png",
-        alu59: "https://bqb1.bili33.top/alu/阴暗.png",
-        alu60: "https://bqb1.bili33.top/alu/高兴.png",
-        alu61: "https://bqb1.bili33.top/alu/黑线.png",
-        alu62: "https://bqb1.bili33.top/alu/鼓掌.png",
+        smile: "e3/2018new_weixioa02_org.png",
+        lovely: "09/2018new_keai_org.png",
+        happy: "1e/2018new_taikaixin_org.png",
+        clap: "6e/2018new_guzhang_thumb.png",
+        whee: "33/2018new_xixi_thumb.png",
+        haha: "8f/2018new_haha_thumb.png",
+        "laugh and cry": "4a/2018new_xiaoku_thumb.png",
+        wink: "43/2018new_jiyan_org.png",
+        greddy: "fa/2018new_chanzui_org.png",
+        awkward: "a3/2018new_heixian_thumb.png",
+        sweat: "28/2018new_han_org.png",
+        "pick nose": "9a/2018new_wabi_thumb.png",
+        hum: "7c/2018new_heng_thumb.png",
+        angry: "f6/2018new_nu_thumb.png",
+        grievance: "a5/2018new_weiqu_thumb.png",
+        poor: "96/2018new_kelian_org.png",
+        disappoint: "aa/2018new_shiwang_thumb.png",
+        sad: "ee/2018new_beishang_org.png",
+        tear: "6e/2018new_leimu_org.png",
+        "no way": "83/2018new_kuxiao_org.png",
+        shy: "c1/2018new_haixiu_org.png",
+        dirt: "10/2018new_wu_thumb.png",
+        "love you": "f6/2018new_aini_org.png",
+        kiss: "2c/2018new_qinqin_thumb.png",
+        amorousness: "9d/2018new_huaxin_org.png",
+        longing: "c9/2018new_chongjing_org.png",
+        desire: "3e/2018new_tianping_thumb.png",
+        "bad laugh": "4d/2018new_huaixiao_org.png",
+        blackness: "9e/2018new_yinxian_org.png",
+        "laugh without word": "2d/2018new_xiaoerbuyu_org.png",
+        titter: "71/2018new_touxiao_org.png",
+        cool: "c4/2018new_ku_org.png",
+        "not easy": "aa/2018new_bingbujiandan_thumb.png",
+        think: "30/2018new_sikao_org.png",
+        question: "b8/2018new_ningwen_org.png",
+        "no idea": "2a/2018new_wenhao_thumb.png",
+        dizzy: "07/2018new_yun_thumb.png",
+        bomb: "a2/2018new_shuai_thumb.png",
+        bone: "a1/2018new_kulou_thumb.png",
+        "be quiet": "b0/2018new_xu_org.png",
+        "shut up": "62/2018new_bizui_org.png",
+        stupid: "dd/2018new_shayan_org.png",
+        "surprise ": "49/2018new_chijing_org.png",
+        vomit: "08/2018new_tu_org.png",
+        cold: "40/2018new_kouzhao_thumb.png",
+        sick: "3b/2018new_shengbing_thumb.png",
+        bye: "fd/2018new_baibai_thumb.png",
+        "look down on": "da/2018new_bishi_org.png",
+        "white eye": "ef/2018new_landelini_org.png",
+        "left hum": "43/2018new_zuohengheng_thumb.png",
+        "right hum": "c1/2018new_youhengheng_thumb.png",
+        crazy: "17/2018new_zhuakuang_org.png",
+        "scold ": "87/2018new_zhouma_thumb.png",
+        "hit on face": "cb/2018new_dalian_org.png",
+        wow: "ae/2018new_ding_org.png",
+        fan: "86/2018new_hufen02_org.png",
+        money: "a2/2018new_qian_thumb.png",
+        yawn: "55/2018new_dahaqian_org.png",
+        sleepy: "3c/2018new_kun_thumb.png",
+        sleep: "e2/2018new_shuijiao_thumb.png",
+        "watermelon ": "01/2018new_chigua_thumb.png",
+        doge: "a1/2018new_doge02_org.png",
+        dog: "22/2018new_erha_org.png",
+        cat: "7b/2018new_miaomiao_thumb.png",
+        thumb: "e6/2018new_zan_org.png",
+        good: "8a/2018new_good_org.png",
+        ok: "45/2018new_ok_org.png",
+        yeah: "29/2018new_ye_thumb.png",
+        "shack hand": "e9/2018new_woshou_thumb.png",
+        bow: "e7/2018new_zuoyi_org.png",
+        come: "42/2018new_guolai_thumb.png",
+        punch: "86/2018new_quantou_thumb.png",
       };
     },
     function (e, t) {
