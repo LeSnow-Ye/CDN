@@ -4,8 +4,8 @@
  */
 
 var myPix = new Array(
-  "https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN/Valine/33.png",
-  "https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN/Valine/22flap.png"
+  "https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN/Valine/bg/33.png",
+  "https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN/Valine/bg/22flap.png"
 );
 var randomNum = Math.floor(Math.random() * myPix.length);
 
