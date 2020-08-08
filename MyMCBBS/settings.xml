@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TimerInternal>3000</TimerInternal>
+  <InternalTimeSelectedIndex>3</InternalTimeSelectedIndex>
+  <BlockWords>
+    <string>Gold Ingot</string>
+  </BlockWords>
+  <SuperMode>false</SuperMode>
+  <PlaySound>false</PlaySound>
+  <CustomBoards>
+    <CustomBoard>
+      <Part>Custom1</Part>
+      <BoardName>矿工茶馆</BoardName>
+    </CustomBoard>
+    <CustomBoard>
+      <Part>Vanilla</Part>
+    </CustomBoard>
+    <CustomBoard>
+      <Part>Vanilla</Part>
+    </CustomBoard>
+    <CustomBoard>
+      <Part>Vanilla</Part>
+    </CustomBoard>
+  </CustomBoards>
+</Settings>
