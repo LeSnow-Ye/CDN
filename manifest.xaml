@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManifestItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManifestItem>
+    <FileName>.minecraft\test0.gif</FileName>
+    <Url>https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN@master/img/%E5%8A%A8%E7%94%BB5.gif</Url>
+    <MD5>969D4087DDF7366E4D86A3151E6378A8</MD5>
+    <Level>Required</Level>
+  </ManifestItem>
+  <ManifestItem>
+    <FileName>.minecraft\test1.gif</FileName>
+    <Url>https://cdn.jsdelivr.net/gh/LeSnow-Ye/CDN@master/img/%E5%8A%A8%E7%94%BB5.gif</Url>
+    <MD5>969D4087DDF7366E4D86A3151E6378A8</MD5>
+    <Level>Required</Level>
+  </ManifestItem>
+  <ManifestItem>
+    <FileName>.minecraft\2gif</FileName>
+    <Level>Banned</Level>
+  </ManifestItem>
+</ArrayOfManifestItem>
